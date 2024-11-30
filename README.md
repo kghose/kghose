@@ -2,7 +2,7 @@ I'm a software engineer with a broad background encompassing bioinformatics, neu
 
 I write less hobby code nowadays because I currently spend my free time writing fiction, but I still dabble now and then. My most recent interest has been in embedded systems [1], [2] and in [VR].
 
-[1]: https://github.com/kghose/sphero-glove
+[1]: https://github.com/kghose/antifreeze
 [2]: https://github.com/kghose/hotwaterjack
 [VR]: https://github.com/kghose/hyperquest
 
