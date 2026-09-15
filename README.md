@@ -8,7 +8,7 @@ I write less hobby code nowadays because I currently spend my free time writing 
 
 I blog on-and-off [about everything][blog].
 
-[blog]: https://kaushikghose.wordpress.com
+[blog]: https://kghose.github.io
 
 <!--
 **kghose/kghose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
